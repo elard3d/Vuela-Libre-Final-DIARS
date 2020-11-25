@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vuela Libre Final DIARS", "Vuela Libre Final DIARS\Vuela Libre Final DIARS.csproj", "{4685156C-9E1B-47BE-9476-6D70B4DBE0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4685156C-9E1B-47BE-9476-6D70B4DBE0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4685156C-9E1B-47BE-9476-6D70B4DBE0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4685156C-9E1B-47BE-9476-6D70B4DBE0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4685156C-9E1B-47BE-9476-6D70B4DBE0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0368E2DA-4CE9-4C34-989C-26BE0AD91D10}
+	EndGlobalSection
+EndGlobal
